@@ -2,7 +2,7 @@
 - 👀 I’m interested in App development
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Full Stack Developers
-- 📫 Reach me @ https://ameenworks.blogspot.com/
+- 📫 Reach me @ https://ameen-works.netlify.app/
 
 <!---
 Ameen-Works/Ameen-Works is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
